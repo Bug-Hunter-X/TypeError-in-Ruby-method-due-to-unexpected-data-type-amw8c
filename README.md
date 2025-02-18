@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in Ruby: type errors arising from unexpected data types.  The `bug.rb` file contains code that adds 1 to an instance variable, which may not always be a number. The `bugSolution.rb` file presents a robust solution.
